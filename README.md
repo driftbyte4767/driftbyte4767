@@ -35,7 +35,7 @@
 ## Currently
 
 <div align="center">
-  <img src="./currently.svg" alt="currently" width="680"/>
+  <img src="" alt="currently" width="680"/>
 </div>
 
 ---
