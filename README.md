@@ -19,9 +19,9 @@
 
 <div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3"/>
@@ -35,24 +35,8 @@
 ## Currently
 
 <div align="center">
-
-![CS Theory](https://img.shields.io/badge/CS%20Theory-active-111111?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-active-111111?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-active-111111?style=flat-square)
-![Mini projects](https://img.shields.io/badge/Mini%20projects-building-111111?style=flat-square)
-
+  <img src="./currently.svg" alt="currently" width="680"/>
 </div>
-
-<br>
-
-```python
-focus = {
-    "learning"   : ["CS theory", "algorithms", "data structures"],
-    "building"   : "small projects from scratch — understanding before shipping",
-    "objective"  : "reach a solid technical level before the CS degree starts",
-    "approach"   : "understand first, then build — not the other way around",
-}
-```
 
 ---
 
