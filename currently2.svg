@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 425" width="680" height="425">
   <defs>
     <style>
       .bg { fill: #0d1117; }
@@ -11,66 +11,69 @@
       .prompt { fill: #58a6ff; font-family: monospace; font-size: 13px; }
       .cmd { fill: #e6edf3; font-family: monospace; font-size: 13px; }
       .label { fill: #c9d1d9; font-family: monospace; font-size: 12px; }
+      .score { fill: #8b949e; font-family: monospace; font-size: 11px; text-anchor: end; }
+      .section { fill: #58a6ff; font-family: monospace; font-size: 12px; }
       .status { fill: #8b949e; font-family: monospace; font-size: 11px; }
       .bar-bg { fill: #21262d; }
-      .bar-high { fill: #e6edf3; }
+      .bar-high { fill: #58a6ff; }
       .bar-mid { fill: #8b949e; }
       .bar-low { fill: #3d444d; }
+      .separator { stroke: #21262d; stroke-width: 1; }
       .cursor { fill: #e6edf3; animation: blink 1.2s step-end infinite; }
       @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
     </style>
   </defs>
 
-  <rect width="680" height="300" rx="8" class="bg"/>
+  <rect width="680" height="425" rx="8" class="bg"/>
   <rect width="680" height="36" rx="8" class="title-bar"/>
   <rect y="20" width="680" height="16" class="title-bar"/>
-  <rect width="680" height="300" rx="8" class="border"/>
+  <rect width="680" height="425" rx="8" class="border"/>
 
   <circle cx="20" cy="18" r="6" class="dot-red"/>
   <circle cx="40" cy="18" r="6" class="dot-yellow"/>
   <circle cx="60" cy="18" r="6" class="dot-green"/>
-  <text x="340" y="23" text-anchor="middle" class="title-text">bash — driftbyte@github</text>
+  <text x="340" y="23" text-anchor="middle" class="title-text">bash &#8212; driftbyte@github</text>
 
   <text x="24" y="68">
-    <tspan class="prompt">driftbyte@github</tspan>
-    <tspan class="status">:</tspan>
-    <tspan class="prompt">~</tspan>
-    <tspan class="status">$ </tspan>
-    <tspan class="cmd">cat currently.md</tspan>
+    <tspan class="prompt">driftbyte@github</tspan><tspan class="status">:</tspan><tspan class="prompt">~</tspan><tspan class="status">$ </tspan><tspan class="cmd">cat skills.md</tspan>
   </text>
-  <rect x="192" y="55" width="8" height="15" class="cursor"/>
+  <rect x="302" y="55" width="8" height="15" class="cursor"/>
 
-  <!-- Dr. Paws -->
-  <text x="24" y="102" class="label">Dr. Paws — full-stack pet health PWA</text>
-  <text x="490" y="102" class="status">building · active</text>
-  <rect x="24" y="108" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="108" width="500" height="5" rx="3" class="bar-high"/>
+  <text x="24" y="94" class="section">core &amp; languages</text>
+  <text x="352" y="94" class="section">web &amp; tooling</text>
+  <line x1="328" y1="86" x2="328" y2="340" class="separator"/>
 
-  <!-- Linktree -->
-  <text x="24" y="136" class="label">Dark XP Linktree — responsive UI</text>
-  <text x="490" y="136" class="status">building · active</text>
-  <rect x="24" y="142" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="142" width="440" height="5" rx="3" class="bar-high"/>
+  <text x="24" y="120" class="label">Python</text><text x="304" y="120" class="score">4/5</text>
+  <rect x="24" y="127" width="280" height="5" rx="3" class="bar-bg"/><rect x="24" y="127" width="224" height="5" rx="3" class="bar-high"/>
+  <text x="352" y="120" class="label">HTML / CSS</text><text x="632" y="120" class="score">2/5</text>
+  <rect x="352" y="127" width="280" height="5" rx="3" class="bar-bg"/><rect x="352" y="127" width="112" height="5" rx="3" class="bar-mid"/>
 
-  <!-- Calculator -->
-  <text x="24" y="170" class="label">C + GTK — desktop calculator</text>
-  <text x="490" y="170" class="status">shipped · learning</text>
-  <rect x="24" y="176" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="176" width="390" height="5" rx="3" class="bar-mid"/>
+  <text x="24" y="160" class="label">C</text><text x="304" y="160" class="score">4/5</text>
+  <rect x="24" y="167" width="280" height="5" rx="3" class="bar-bg"/><rect x="24" y="167" width="224" height="5" rx="3" class="bar-high"/>
+  <text x="352" y="160" class="label">JavaScript</text><text x="632" y="160" class="score">1/5</text>
+  <rect x="352" y="167" width="280" height="5" rx="3" class="bar-bg"/><rect x="352" y="167" width="56" height="5" rx="3" class="bar-low"/>
 
-  <!-- Persona 2 FR -->
-  <text x="24" y="204" class="label">Persona 2 FR — translation tooling</text>
-  <text x="490" y="204" class="status">contributing</text>
-  <rect x="24" y="210" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="210" width="340" height="5" rx="3" class="bar-mid"/>
+  <text x="24" y="200" class="label">Algorithms</text><text x="304" y="200" class="score">4/5</text>
+  <rect x="24" y="207" width="280" height="5" rx="3" class="bar-bg"/><rect x="24" y="207" width="224" height="5" rx="3" class="bar-high"/>
+  <text x="352" y="200" class="label">Git / GitHub</text><text x="632" y="200" class="score">4/5</text>
+  <rect x="352" y="207" width="280" height="5" rx="3" class="bar-bg"/><rect x="352" y="207" width="224" height="5" rx="3" class="bar-high"/>
 
-  <!-- Fundamentals -->
-  <text x="24" y="238" class="label">CS fundamentals — algorithms &amp; systems</text>
-  <text x="490" y="238" class="status">learning · ongoing</text>
-  <rect x="24" y="244" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="244" width="300" height="5" rx="3" class="bar-mid"/>
+  <text x="24" y="240" class="label">Data structures</text><text x="304" y="240" class="score">3/5</text>
+  <rect x="24" y="247" width="280" height="5" rx="3" class="bar-bg"/><rect x="24" y="247" width="168" height="5" rx="3" class="bar-mid"/>
+  <text x="352" y="240" class="label">Linux</text><text x="632" y="240" class="score">2/5</text>
+  <rect x="352" y="247" width="280" height="5" rx="3" class="bar-bg"/><rect x="352" y="247" width="112" height="5" rx="3" class="bar-mid"/>
 
-  <!-- Objectif -->
-  <text x="24" y="278" class="status">→  objective : learn deeply, ship useful projects, document the journey</text>
+  <text x="24" y="280" class="label">C++</text><text x="304" y="280" class="score">0/5</text>
+  <rect x="24" y="287" width="280" height="5" rx="3" class="bar-bg"/>
+  <text x="352" y="280" class="label">SQL</text><text x="632" y="280" class="score">1/5</text>
+  <rect x="352" y="287" width="280" height="5" rx="3" class="bar-bg"/><rect x="352" y="287" width="56" height="5" rx="3" class="bar-low"/>
 
+  <text x="24" y="320" class="label">Go</text><text x="304" y="320" class="score">0/5</text>
+  <rect x="24" y="327" width="280" height="5" rx="3" class="bar-bg"/>
+  <text x="352" y="320" class="label">React / Next.js</text><text x="632" y="320" class="score">0/5</text>
+  <rect x="352" y="327" width="280" height="5" rx="3" class="bar-bg"/>
+
+  <line x1="24" y1="352" x2="656" y2="352" class="separator"/>
+  <text x="24" y="378" class="status">&#8594; current focus : Python / C / JavaScript</text>
+  <text x="24" y="403" class="status">&#8594; next : Rust &#183; exploring Android development</text>
 </svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:1a1a1a&text=driftbyte&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer&descSize=20&descAlignY=58&descColor=cccccc"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:1a1a1a&text=driftbyte&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20%C2%B7%20CS%20learner&descSize=20&descAlignY=58&descColor=cccccc"
   alt="Banner driftbyte"
 />
 
@@ -21,7 +21,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3"/>
@@ -40,16 +39,20 @@
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Dr. Paws](https://github.com/driftbyte4767/Dr.-Paws) | A PWA that reads cat vaccination records with OCR, creates reminders, finds nearby vets, and helps users discover shelter cats. | Next.js, Go, OCR |
-| [Dark XP Linktree](https://github.com/driftbyte4767/Linktree) | A responsive personal links page inspired by Windows XP and redesigned with a dark theme. | HTML, CSS, Bootstrap Icons |
-| [Calculator](https://github.com/driftbyte4767/Calculator) | A desktop calculator with arithmetic, power, modulo, square-root, sound, and animation features. | C, GTK 3, GLib |
-| [Persona 2 FR](https://github.com/driftbyte4767/P2-FR-IS-PSP) | Contribution to a fan-made French translation workflow for Persona 2: Innocent Sin on PSP. | Translation tooling, game modding |
+## Selected Projects
 
 <div align="center">
+
+<a href="https://github.com/driftbyte4767/Dr.-Paws">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=driftbyte4767&repo=Dr.-Paws&theme=github_dark&hide_border=false&border_color=30363d" alt="Dr. Paws repository card"/>
+</a>
+<a href="https://github.com/driftbyte4767/Calculator">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=driftbyte4767&repo=Calculator&theme=github_dark&hide_border=false&border_color=30363d" alt="Calculator repository card"/>
+</a>
+
+<a href="https://github.com/driftbyte4767/Linktree">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=driftbyte4767&repo=Linktree&theme=github_dark&hide_border=false&border_color=30363d" alt="Dark XP Linktree repository card"/>
+</a>
 
 *Learning by building useful, documented projects.*
 
