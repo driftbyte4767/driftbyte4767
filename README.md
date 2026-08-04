@@ -42,14 +42,16 @@
 
 ## Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [Dr. Paws](https://github.com/driftbyte4767/Dr.-Paws) | A PWA that reads cat vaccination records with OCR, creates reminders, finds nearby vets, and helps users discover shelter cats. | Next.js, Go, OCR |
+| [Dark XP Linktree](https://github.com/driftbyte4767/Linktree) | A responsive personal links page inspired by Windows XP and redesigned with a dark theme. | HTML, CSS, Bootstrap Icons |
+| [Calculator](https://github.com/driftbyte4767/Calculator) | A desktop calculator with arithmetic, power, modulo, square-root, sound, and animation features. | C, GTK 3, GLib |
+| [Persona 2 FR](https://github.com/driftbyte4767/P2-FR-IS-PSP) | Contribution to a fan-made French translation workflow for Persona 2: Innocent Sin on PSP. | Translation tooling, game modding |
+
 <div align="center">
 
-> **Repos incoming.**
->
-> Each project here will reflect real progression — not filler.<br>
-> Built to understand. Documented to prove it.
->
-> *Come back soon.*
+*Learning by building useful, documented projects.*
 
 </div>
 

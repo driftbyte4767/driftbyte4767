@@ -40,37 +40,37 @@
   </text>
   <rect x="192" y="55" width="8" height="15" class="cursor"/>
 
-  <!-- Python -->
-  <text x="24" y="102" class="label">Python — algo &amp; fundamentals</text>
-  <text x="490" y="102" class="status">active · month 1</text>
+  <!-- Dr. Paws -->
+  <text x="24" y="102" class="label">Dr. Paws — full-stack pet health PWA</text>
+  <text x="490" y="102" class="status">building · active</text>
   <rect x="24" y="108" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="108" width="480" height="5" rx="3" class="bar-high"/>
+  <rect x="24" y="108" width="500" height="5" rx="3" class="bar-high"/>
 
-  <!-- LeetCode / Exercism -->
-  <text x="24" y="136" class="label">LeetCode + Exercism — daily practice</text>
-  <text x="490" y="136" class="status">active · daily</text>
+  <!-- Linktree -->
+  <text x="24" y="136" class="label">Dark XP Linktree — responsive UI</text>
+  <text x="490" y="136" class="status">building · active</text>
   <rect x="24" y="142" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="142" width="420" height="5" rx="3" class="bar-high"/>
+  <rect x="24" y="142" width="440" height="5" rx="3" class="bar-high"/>
 
-  <!-- Algo & structures -->
-  <text x="24" y="170" class="label">Algorithms &amp; data structures</text>
-  <text x="490" y="170" class="status">active · month 1</text>
+  <!-- Calculator -->
+  <text x="24" y="170" class="label">C + GTK — desktop calculator</text>
+  <text x="490" y="170" class="status">shipped · learning</text>
   <rect x="24" y="176" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="176" width="360" height="5" rx="3" class="bar-mid"/>
+  <rect x="24" y="176" width="390" height="5" rx="3" class="bar-mid"/>
 
-  <!-- C -->
-  <text x="24" y="204" class="label">C — memory, pointers, systems</text>
-  <text x="490" y="204" class="status">incoming · month 2</text>
+  <!-- Persona 2 FR -->
+  <text x="24" y="204" class="label">Persona 2 FR — translation tooling</text>
+  <text x="490" y="204" class="status">contributing</text>
   <rect x="24" y="210" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="210" width="120" height="5" rx="3" class="bar-low"/>
+  <rect x="24" y="210" width="340" height="5" rx="3" class="bar-mid"/>
 
-  <!-- SQL -->
-  <text x="24" y="238" class="label">SQL + backend web</text>
-  <text x="490" y="238" class="status">planned · month 3-4</text>
+  <!-- Fundamentals -->
+  <text x="24" y="238" class="label">CS fundamentals — algorithms &amp; systems</text>
+  <text x="490" y="238" class="status">learning · ongoing</text>
   <rect x="24" y="244" width="560" height="5" rx="3" class="bar-bg"/>
-  <rect x="24" y="244" width="60" height="5" rx="3" class="bar-low"/>
+  <rect x="24" y="244" width="300" height="5" rx="3" class="bar-mid"/>
 
   <!-- Objectif -->
-  <text x="24" y="278" class="status">→  objective : solid CS foundations before licence — sept. 2026</text>
+  <text x="24" y="278" class="status">→  objective : learn deeply, ship useful projects, document the journey</text>
 
 </svg>
