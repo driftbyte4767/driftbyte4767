@@ -44,14 +44,14 @@
 <div align="center">
 
 <a href="https://github.com/driftbyte4767/Dr.-Paws">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=driftbyte4767&repo=Dr.-Paws&theme=github_dark&hide_border=false&border_color=30363d" alt="Dr. Paws repository card"/>
+  <img width="49%" src="./project-dr-paws.svg" alt="Dr. Paws — pet health PWA"/>
 </a>
 <a href="https://github.com/driftbyte4767/Calculator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=driftbyte4767&repo=Calculator&theme=github_dark&hide_border=false&border_color=30363d" alt="Calculator repository card"/>
+  <img width="49%" src="./project-calculator.svg" alt="Calculator — C and GTK desktop application"/>
 </a>
 
 <a href="https://github.com/driftbyte4767/Linktree">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=driftbyte4767&repo=Linktree&theme=github_dark&hide_border=false&border_color=30363d" alt="Dark XP Linktree repository card"/>
+  <img width="49%" src="./project-linktree.svg" alt="Dark XP Linktree — personal links page"/>
 </a>
 
 *Learning by building useful, documented projects.*
